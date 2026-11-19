@@ -216,6 +216,7 @@ Multiplication table of 5:
 5 x 3 = 15  
 ...  
 5 x 10 = 50
+
 <img width="697" height="568" alt="image" src="https://github.com/user-attachments/assets/9a25fa40-2c98-431a-a13b-9805b187cf97" />
 <img width="376" height="393" alt="image" src="https://github.com/user-attachments/assets/5c67e714-d58c-4880-b2ff-c0013292550d" />
 
